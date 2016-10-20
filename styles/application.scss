@@ -1,2 +1,6 @@
 // This is the top-level scss file. Import all other files in here.
-@import 'home';
+@import 'bootstrap';
+@import "apps/inbox";
+@import "apps/ticket";
+@import "apps/todo";
+@import "layouts/themes/"
