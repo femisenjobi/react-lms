@@ -49,6 +49,7 @@
     "bootstrap-sass": "^3.3.7",
     "bootstrap-switch": "^3.3.2",
     "font-awesome": "^4.6.3",
+    "jquery": "^2.2.4",
     "react": "15.2.1",
     "react-dom": "15.2.1",
     "simple-line-icons": "^2.4.1"
